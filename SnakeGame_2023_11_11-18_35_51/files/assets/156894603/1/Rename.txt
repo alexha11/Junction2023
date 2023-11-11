@@ -1,0 +1,4 @@
++ Simple movement
++ Simple item collecting
++ UI
++ Sounds
